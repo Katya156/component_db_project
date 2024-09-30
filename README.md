@@ -18,7 +18,7 @@ Making a json with a list of all ECBs in the following form:
 </code>
 The elements are divided into files by title and each file lies in a folder with the name of the book in which the corresponding elements were.
 
-The result is stored in the /data folder
+The result is stored in the /data folder.
 <h4><ins>divide_params.py</ins></h4>
 Here is a section setting (new_parser_settings folder), which column corresponds to which Parameter Id. 
 You need to make a program that will create such a file:
@@ -33,8 +33,8 @@ You need to make a program that will create such a file:
 ...
 ]
 </code>
-Such files should be for for each category, both with names and THOSE, but the template files are given per section (the gap between the two subtitle).
+Such files should be for for each category, both with names and technical specifications, but the template files are given per section (the gap between the two subtitle).
 
-The result is stored in the /data_params folder
+The result is stored in the /data_params folder.
 
 <ins><em>Libraries and modules used:</em></ins> os, re, sys, json
