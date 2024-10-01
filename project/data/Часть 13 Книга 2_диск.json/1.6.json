@@ -1,0 +1,74 @@
+[
+    {
+        "ekbName": "В1Д-4В",
+        "tuName": [
+            "АЛСР.674280.006ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "В1Д-5В",
+        "tuName": [
+            "АЛСР.674284.006ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "П1Г-1В",
+        "tuName": [
+            "АЛСР.674284.003ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "П1Д-4В",
+        "tuName": [
+            "АЛСР.674284.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "П2Д-1В",
+        "tuName": [
+            "ОЖ0.360.020ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "П4Г-2В",
+        "tuName": [
+            "ОЖ0.360.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "П4Д-1В",
+        "tuName": [
+            "АЛСР.674280.003ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "П5Г-2В",
+        "tuName": [
+            "ОЖ0.339.006ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    }
+]

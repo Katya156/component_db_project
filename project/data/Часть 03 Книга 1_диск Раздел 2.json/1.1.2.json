@@ -1,0 +1,421 @@
+[
+    {
+        "ekbName": "2Д212А",
+        "tuName": [
+            "Ц23.362.006ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д212А ОС",
+        "tuName": [
+            "Ц23.362.006ТУ",
+            "АЕЯР.430204.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д212А-6",
+        "tuName": [
+            "аА0.339.074ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д212А/ФТ",
+        "tuName": [
+            "АЕЯР.432120.354ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д212Б",
+        "tuName": [
+            "Ц23.362.006ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д212Б ОС",
+        "tuName": [
+            "АЕЯР.430204.190ТУ",
+            "Ц23.362.006ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д212Б/ФТ",
+        "tuName": [
+            "АЕЯР.432120.354ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213А",
+        "tuName": [
+            "Ц23.362.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213А ОС",
+        "tuName": [
+            "АЕЯР.430204.190ТУ",
+            "Ц23.362.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213А-6",
+        "tuName": [
+            "аА0.339.073ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213А/ФТ",
+        "tuName": [
+            "АЕЯР.432120.355ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213Б",
+        "tuName": [
+            "Ц23.362.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213Б ОС",
+        "tuName": [
+            "Ц23.362.008ТУ",
+            ""
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213Б-6",
+        "tuName": [
+            "аА0.339.073ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213Б/ФТ",
+        "tuName": [
+            "АЕЯР.432120.355ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213В",
+        "tuName": [
+            "Ц23.362.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213В/ФТ",
+        "tuName": [
+            "АЕЯР.432120.355ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213Г",
+        "tuName": [
+            "Ц23.362.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д213Г/ФТ",
+        "tuName": [
+            "АЕЯР.432120.355ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д218А",
+        "tuName": [
+            "аА0.339.069ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д218А ОС",
+        "tuName": [
+            "аА0.339.069ТУ",
+            "аА0.339.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д228А",
+        "tuName": [
+            "аА0.339.381ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д236А",
+        "tuName": [
+            "аА0.339.599ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д236Б",
+        "tuName": [
+            "аА0.339.599ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д237А",
+        "tuName": [
+            "аА0.339.600ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д237А/ФТ",
+        "tuName": [
+            "АЕЯР.432120.342ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д237Б",
+        "tuName": [
+            "аА0.339.600ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д237Б/ФТ",
+        "tuName": [
+            "АЕЯР.432120.342ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2990А/ФТ",
+        "tuName": [
+            "АЕЯР.432120.358ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2990Б/ФТ",
+        "tuName": [
+            "АЕЯР.432120.358ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2990В/ФТ",
+        "tuName": [
+            "АЕЯР.432120.358ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2992А",
+        "tuName": [
+            "аА0.339.585ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2992Б",
+        "tuName": [
+            "аА0.339.585ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2992В",
+        "tuName": [
+            "аА0.339.585ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2997А",
+        "tuName": [
+            "аА0.339.452ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2997А/ФТ",
+        "tuName": [
+            "АЕЯР.432120.357ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2997Б",
+        "tuName": [
+            "аА0.339.452ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2997Б/ФТ",
+        "tuName": [
+            "АЕЯР.432120.357ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2997В",
+        "tuName": [
+            "аА0.339.452ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2997В/ФТ",
+        "tuName": [
+            "АЕЯР.432120.357ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2999А",
+        "tuName": [
+            "аА0.339.422ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2999А/ФТ",
+        "tuName": [
+            "АЕЯР.432120.356ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2999Б",
+        "tuName": [
+            "аА0.339.422ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2999Б/ФТ",
+        "tuName": [
+            "АЕЯР.432120.356ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2999В",
+        "tuName": [
+            "аА0.339.422ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д2999В/ФТ",
+        "tuName": [
+            "АЕЯР.432120.356ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

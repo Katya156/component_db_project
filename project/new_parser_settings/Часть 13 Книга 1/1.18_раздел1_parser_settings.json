@@ -1,0 +1,104 @@
+[
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1077,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1 = d:1"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1078,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1 = d:1"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1079,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      },
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1080,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1, = {1 | 1/2/ = d:1 = d:2}"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1081,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      },
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1082,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1/2/ = d:1 = d:2"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1083,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      },
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1084,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1/2/ = d:1 = d:2"
+  }
+]

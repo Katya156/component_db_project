@@ -1,0 +1,86 @@
+[
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 526,
+          "SelectedUnitMultiplier": 1000.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1; = d:1"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1222,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1 = r:1"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1223,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1 = d:1"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1224,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      },
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": 1225,
+          "SelectedUnitMultiplier": 1.0
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1 = d:1"
+  },
+  {
+    "$type": "MPT2.ColumnParserSettings+J, MPT2",
+    "HierarchicalParameters": [
+      {
+        "$type": "MPT2.ColumnParserSettings+J+HP, MPT2",
+        "Parameter": {
+          "$type": "MPT2.ColumnParserSettings+J+HP+IU, MPT2",
+          "LinkedInparId": null,
+          "SelectedUnitMultiplier": null
+        },
+        "SubParameters": []
+      }
+    ],
+    "ParserString": "1× = d:1"
+  }
+]

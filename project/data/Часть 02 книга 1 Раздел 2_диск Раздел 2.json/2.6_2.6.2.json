@@ -1,0 +1,59 @@
+[
+    {
+        "ekbName": "286ЕП3",
+        "tuName": [
+            "бК0.347.017ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "286ЕП4",
+        "tuName": [
+            "бК0.347.017ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "286ЕП5",
+        "tuName": [
+            "бК0.347.017ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 286ЕП3",
+        "tuName": [
+            "бК0.347.017ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 286ЕП4",
+        "tuName": [
+            "бК0.347.017ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 286ЕП5",
+        "tuName": [
+            "бК0.347.017ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

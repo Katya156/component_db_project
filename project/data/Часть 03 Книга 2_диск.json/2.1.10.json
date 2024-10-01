@@ -1,0 +1,38 @@
+[
+    {
+        "ekbName": "2Т932А P-N-P",
+        "tuName": [
+            "аА0.339.086ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИПП»"
+        ]
+    },
+    {
+        "ekbName": "2Т932Б P-N-P",
+        "tuName": [
+            "аА0.339.086ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИПП»"
+        ]
+    },
+    {
+        "ekbName": "2Т933А P-N-P",
+        "tuName": [
+            "аА0.339.087ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИПП»"
+        ]
+    },
+    {
+        "ekbName": "2Т933Б P-N-P",
+        "tuName": [
+            "аА0.339.087ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИПП»"
+        ]
+    }
+]

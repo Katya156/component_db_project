@@ -1,0 +1,101 @@
+[
+    {
+        "ekbName": "ТА",
+        "tuName": [
+            "ВУШК.671110.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТА",
+        "tuName": [
+            "ОЮ0.471.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТАН",
+        "tuName": [
+            "ВУШК.671110.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТАН",
+        "tuName": [
+            "ОЮ0.471.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТН",
+        "tuName": [
+            "ВУШК.671110.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТН",
+        "tuName": [
+            "ОЮ0.471.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТО",
+        "tuName": [
+            "ПЮЯИ.670110.001ТУ"
+        ],
+        "manufacturerName": [
+            "ФГУП «ПО «ОКТЯБРЬ»"
+        ]
+    },
+    {
+        "ekbName": "ТП",
+        "tuName": [
+            "ПЮЯИ.670110.001ТУ"
+        ],
+        "manufacturerName": [
+            "ФГУП «ПО «ОКТЯБРЬ»"
+        ]
+    },
+    {
+        "ekbName": "ТПП",
+        "tuName": [
+            "ВУШК.671110.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТПП",
+        "tuName": [
+            "ОЮ0.471.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    },
+    {
+        "ekbName": "ТПП",
+        "tuName": [
+            "ОЮ0.471.029ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ТРАНСВИТ»"
+        ]
+    }
+]

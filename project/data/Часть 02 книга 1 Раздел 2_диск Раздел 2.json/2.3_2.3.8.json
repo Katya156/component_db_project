@@ -1,0 +1,21 @@
+[
+    {
+        "ekbName": "1401СА1",
+        "tuName": [
+            "бК0.347.306-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 1401СА1",
+        "tuName": [
+            "бК0.347.306-03ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

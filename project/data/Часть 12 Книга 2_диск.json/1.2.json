@@ -1,0 +1,56 @@
+[
+    {
+        "ekbName": "ТПГ2",
+        "tuName": [
+            "ОЮ0.472.058ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «НПО «НИИРК»"
+        ]
+    },
+    {
+        "ekbName": "ТПр14",
+        "tuName": [
+            "ОЮ0.472.070ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СТРЕЛА»"
+        ]
+    },
+    {
+        "ekbName": "ТПР28",
+        "tuName": [
+            "АГ0.471.014ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «НПО «НИИРК»"
+        ]
+    },
+    {
+        "ekbName": "ТПР33",
+        "tuName": [
+            "АГ0.471.017ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «НПО «НИИРК»"
+        ]
+    },
+    {
+        "ekbName": "ТПР35",
+        "tuName": [
+            "АГ0.471.017ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «НПО «НИИРК»"
+        ]
+    },
+    {
+        "ekbName": "ТПР36",
+        "tuName": [
+            "АГ0.471.017ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «НПО «НИИРК»"
+        ]
+    }
+]

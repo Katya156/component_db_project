@@ -1,0 +1,29 @@
+[
+    {
+        "ekbName": "2П307А КАНАЛ N-ТИПА",
+        "tuName": [
+            "Ц23.365.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2П307Б КАНАЛ N-ТИПА",
+        "tuName": [
+            "Ц23.365.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2П307Г КАНАЛ N-ТИПА",
+        "tuName": [
+            "Ц23.365.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

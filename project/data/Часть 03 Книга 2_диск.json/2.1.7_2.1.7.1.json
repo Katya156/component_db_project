@@ -1,0 +1,56 @@
+[
+    {
+        "ekbName": "2Т640А1-2 N-P-N",
+        "tuName": [
+            "аА0.339.047ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т642А1-2 N-P-N",
+        "tuName": [
+            "аА0.339.423ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т642Б1-2 N-P-N",
+        "tuName": [
+            "аА0.339.423ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т657А1-2 N-P-N",
+        "tuName": [
+            "аА0.339.405ТУ/Д1"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т688А-2 N-P-N",
+        "tuName": [
+            "аА0.339.680ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т688Б-2 N-P-N",
+        "tuName": [
+            "аА0.339.680ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    }
+]

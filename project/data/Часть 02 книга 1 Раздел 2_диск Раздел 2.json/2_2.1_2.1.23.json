@@ -1,0 +1,67 @@
+[
+    {
+        "ekbName": "1401УД2А",
+        "tuName": [
+            "бК0.347.306-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "1401УД2Б",
+        "tuName": [
+            "бК0.347.306-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "1401УН1Т",
+        "tuName": [
+            "бК0.347.306-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "1401УП1Т",
+        "tuName": [
+            "бК0.347.306-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "Н1401УД2А",
+        "tuName": [
+            "бК0.347.306-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 1401УД2А",
+        "tuName": [
+            "бК0.347.306-01ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 1401УД2Б",
+        "tuName": [
+            "бК0.347.306-01ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

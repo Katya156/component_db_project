@@ -1,0 +1,326 @@
+[
+    {
+        "ekbName": "530ИД14",
+        "tuName": [
+            "бК0.347.022-26ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "530ИД7",
+        "tuName": [
+            "бК0.347.022-25ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "530ИР22",
+        "tuName": [
+            "бК0.347.022-33ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "530ТМ2",
+        "tuName": [
+            "бК0.347.022ТУ16"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ИД14-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ИД7-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ИР22-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ИР23-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530КП15-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530КП7-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ЛА1-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ЛА13-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ЛА9-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ЛЕ1-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ЛН1-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ЛН2-2",
+        "tuName": [
+            "бК0.347.428-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ТМ2-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ТМ8-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Б530ТМ9-2",
+        "tuName": [
+            "бК0.347.428-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "М530ТМ2",
+        "tuName": [
+            "бК0.347.022ТУ16"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ИД14",
+        "tuName": [
+            "бК0.347.022-26ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ИД7",
+        "tuName": [
+            "бК0.347.022-25ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ЛЕ1",
+        "tuName": [
+            "бК0.347.022-11ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ЛН1",
+        "tuName": [
+            "бК0.347.022-11ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ЛН2",
+        "tuName": [
+            "бК0.347.022-02ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ТМ8",
+        "tuName": [
+            "бК0.347.022-27ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "Н530ТМ9",
+        "tuName": [
+            "бК0.347.022-22ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ИД14",
+        "tuName": [
+            "бК0.347.374-22СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ИД7",
+        "tuName": [
+            "бК0.347.374-22СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ЛА9",
+        "tuName": [
+            "бК0.347.374-06СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ЛЕ1",
+        "tuName": [
+            "бК0.347.374-06СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ЛН1",
+        "tuName": [
+            "бК0.347.374-06СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ЛН2",
+        "tuName": [
+            "бК0.347.374-15СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ТМ2",
+        "tuName": [
+            "бК0.347.374-07СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ТМ8",
+        "tuName": [
+            "бК0.347.374-08СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    },
+    {
+        "ekbName": "ОС 530ТМ9",
+        "tuName": [
+            "бК0.347.374-08СТУ"
+        ],
+        "manufacturerName": [
+            "АО «НЗПП»"
+        ]
+    }
+]

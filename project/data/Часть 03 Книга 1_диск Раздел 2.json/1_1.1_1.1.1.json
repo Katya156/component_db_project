@@ -1,0 +1,48 @@
+[
+    {
+        "ekbName": "2Д120А",
+        "tuName": [
+            "аА0.339.382ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д120А1",
+        "tuName": [
+            "аА0.339.382ТУ/Д1"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д120А1",
+        "tuName": [
+            "аА0.339.382ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д120А1 ОСМ",
+        "tuName": [
+            "аА0.339.382ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Д121А",
+        "tuName": [
+            "аА0.339.503ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

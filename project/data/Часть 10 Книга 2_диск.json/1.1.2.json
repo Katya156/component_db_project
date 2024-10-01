@@ -1,0 +1,138 @@
+[
+    {
+        "ekbName": "ОСМ РК194",
+        "tuName": [
+            "аЦ0.338.060ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК07",
+        "tuName": [
+            "аЦ0.338.055ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЬЕЗО»"
+        ]
+    },
+    {
+        "ekbName": "РК161",
+        "tuName": [
+            "УЗ3.381.031-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК187",
+        "tuName": [
+            "аЦ0.338.052ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК194-Т",
+        "tuName": [
+            "аЦ0.338.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК194СР",
+        "tuName": [
+            "аЦ0.338.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК320",
+        "tuName": [
+            "аЦ0.338.106ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК339-ТБ",
+        "tuName": [
+            "Щ40.338.023ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "РК34",
+        "tuName": [
+            "аЦ0.338.023ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК361",
+        "tuName": [
+            "АФТП433510.004ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "РК405",
+        "tuName": [
+            "УЗ0.338.010ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК406",
+        "tuName": [
+            "УЗ0.338.010ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК472",
+        "tuName": [
+            "ТУ 6321-038-07614320-05"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК77",
+        "tuName": [
+            "УЗ3.382.248ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК89",
+        "tuName": [
+            "УЗ0.338.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    }
+]

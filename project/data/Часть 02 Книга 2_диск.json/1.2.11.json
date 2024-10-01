@@ -1,0 +1,74 @@
+[
+    {
+        "ekbName": "556РТ10",
+        "tuName": [
+            "бК0.347.239-10ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ5А",
+        "tuName": [
+            "бК0.347.239-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ6",
+        "tuName": [
+            "бК0.347.239-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ8",
+        "tuName": [
+            "бК0.347.239-08ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "И556АП1",
+        "tuName": [
+            "бК0.347.661ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "М556РТ6",
+        "tuName": [
+            "бК0.347.237-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "Н556РТ5",
+        "tuName": [
+            "бК0.347.239-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "Р556РТ5",
+        "tuName": [
+            "бК0.347.227-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    }
+]

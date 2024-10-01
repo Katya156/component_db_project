@@ -1,0 +1,119 @@
+[
+    {
+        "ekbName": "13ЛМ31В",
+        "tuName": [
+            "СУ3.350.058ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "13ЛМ4В",
+        "tuName": [
+            "СУ3.350.021ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "13ЛМ6В",
+        "tuName": [
+            "СУ3.350.098ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "16ЛМ2В",
+        "tuName": [
+            "СС0.335.105ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "16ЛМ2И",
+        "tuName": [
+            "СС0.335.105ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "16ЛМ2Н",
+        "tuName": [
+            "СС0.335.105ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "23ЛМ11С",
+        "tuName": [
+            "ССЗ.350.057ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "23ЛМ13Б",
+        "tuName": [
+            "СС3.350.070ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "23ЛМ4В",
+        "tuName": [
+            "СС0.335.112ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "23ЛМ4И",
+        "tuName": [
+            "СС0.335.112ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "23ЛМ4Н",
+        "tuName": [
+            "СС0.335.112ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "6ЛМ15И",
+        "tuName": [
+            "АГСР.433111.017ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ПЛАТАН» С ЗАВОДОМ ПРИ НИИ»"
+        ]
+    },
+    {
+        "ekbName": "6ЛМ15И-01",
+        "tuName": [
+            "АГСР.433111.017ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ПЛАТАН» С ЗАВОДОМ ПРИ НИИ»"
+        ]
+    }
+]

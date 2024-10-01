@@ -1,0 +1,658 @@
+[
+    {
+        "ekbName": "ПВСПЛФ-1",
+        "tuName": [
+            "ТУ 3598-476-00217053"
+        ],
+        "manufacturerName": [
+            "ОАО «ВНИИКП»"
+        ]
+    },
+    {
+        "ekbName": "ПВСПЛФ-3",
+        "tuName": [
+            "ТУ 3598-476-00217053"
+        ],
+        "manufacturerName": [
+            "ОАО «ВНИИКП»"
+        ]
+    },
+    {
+        "ekbName": "ПВСПЛФ-4",
+        "tuName": [
+            "ТУ 3598-476-00217053"
+        ],
+        "manufacturerName": [
+            "ОАО «ВНИИКП»"
+        ]
+    },
+    {
+        "ekbName": "ВНМ",
+        "tuName": [
+            "ТУ 16-505.460-73"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ВНМА",
+        "tuName": [
+            "ТУ 16-505.460-73"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ВНМЭ",
+        "tuName": [
+            "ТУ 16-505.460-73"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ВНМЭШ",
+        "tuName": [
+            "ТУ 16-505.460-73"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "КВГРЭ",
+        "tuName": [
+            "ТУ 16-505.594-74"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "КВИ-100",
+        "tuName": [
+            "ТУ 16-705.324-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "КВНС-20/50",
+        "tuName": [
+            "ТУ 16-505.577-74"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "КИВМ",
+        "tuName": [
+            "ТУ 16-505.793-75"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "КИМЭП-К",
+        "tuName": [
+            "ТУ 16-505.955-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "КИМЭПМ",
+        "tuName": [
+            "ТУ 16-505.955-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "МПИ",
+        "tuName": [
+            "ТУ 16-505.123-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "МПИЭ",
+        "tuName": [
+            "ТУ 16-505.123-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "МПИЭ/0.15К",
+        "tuName": [
+            "ТУ 16-505.123-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "МПИЭП",
+        "tuName": [
+            "ТУ 16-505.123-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "МПИЭП/0.15К",
+        "tuName": [
+            "ТУ 16-505.123-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВАО-1",
+        "tuName": [
+            "ТУ 16.К76-223-2008"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВАО-2",
+        "tuName": [
+            "ТУ 16.К76-223-2008"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМК-4",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМК-5",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМК-6",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКО-4",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКО-5",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКО-6",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКР-4",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКР-5",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКР-6",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭ-4",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭ-5",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭ-6",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭО-4",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭО-5",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭО-6",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭР-4",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭР-5",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМКЭР-6",
+        "tuName": [
+            "ТУ 16-505.614-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМП-2",
+        "tuName": [
+            "ТУ 16-505.253-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»",
+            "АО «НП «ПОДОЛЬСККАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМП-2.5",
+        "tuName": [
+            "ТУ 16-505.253-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»",
+            "АО «НП «ПОДОЛЬСККАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМП-2.5-ОС",
+        "tuName": [
+            "ТУ 16-505.253-79",
+            "ОСТ В 16 0.800.764-80"
+        ],
+        "manufacturerName": [
+            "АО «НП «ПОДОЛЬСККАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМП-4",
+        "tuName": [
+            "ТУ 16-505.253-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»",
+            "АО «НП «ПОДОЛЬСККАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМР-10",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМР-3",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМР-4",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМР-6",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМР-8",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРО-10",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРО-4",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРО-6",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРО-8",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРОР-1",
+        "tuName": [
+            "ТУ 16-505.644-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭО-10",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭО-4",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭО-6",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭО-8",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭР-10",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭР-4",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭР-6",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМРЭР-8",
+        "tuName": [
+            "ТУ 16-505.326-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФ-2",
+        "tuName": [
+            "ТУ 16-705.213-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФ-3",
+        "tuName": [
+            "ТУ 16-505.286-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФ-4",
+        "tuName": [
+            "ТУ 16-505.286-79"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФО",
+        "tuName": [
+            "ТУ 16-505.287-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»",
+            "ООО «КАМСКИЙ КАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФО-ОС",
+        "tuName": [
+            "ТУ 16-505.287-81",
+            "ОСТ В 16 0.800.764-80"
+        ],
+        "manufacturerName": [
+            "ООО «КАМСКИЙ КАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФЭ-2",
+        "tuName": [
+            "ТУ 16-705.213-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФЭО",
+        "tuName": [
+            "ТУ 16-505.287-81"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»",
+            "ООО «КАМСКИЙ КАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВМФЭО-ОС",
+        "tuName": [
+            "ТУ 16-505.287-81",
+            "ОСТ В 16 0.800.764-80"
+        ],
+        "manufacturerName": [
+            "ООО «КАМСКИЙ КАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ПВФ-4",
+        "tuName": [
+            "ДКЮГ.358200.019ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПВФ-6.5",
+        "tuName": [
+            "ДКЮГ.358200.019ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ППВВ-М",
+        "tuName": [
+            "ТУ 16.К76-176-2003"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ПТС",
+        "tuName": [
+            "ТУ 16-505.651-80"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    }
+]

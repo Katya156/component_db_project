@@ -1,0 +1,65 @@
+[
+    {
+        "ekbName": "ОК-БС01",
+        "tuName": [
+            "ТУ 16-705.287-83"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ОК-БС02",
+        "tuName": [
+            "ТУ 16-705.361-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ОК-БС03",
+        "tuName": [
+            "ТУ 16-705.361-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ОК-БС04",
+        "tuName": [
+            "ТУ 16-705.381-85"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ОК-БС07",
+        "tuName": [
+            "ТУ 16-705.381-85"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ОК-БС08",
+        "tuName": [
+            "ТУ 16.К76-110-97"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ОК-БС09",
+        "tuName": [
+            "ТУ 16.К76-110-97"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    }
+]

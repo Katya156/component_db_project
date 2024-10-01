@@ -1,0 +1,83 @@
+[
+    {
+        "ekbName": "2РТ-А",
+        "tuName": [
+            "ГЕ0.364.118ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "Р",
+        "tuName": [
+            "ГЕ0.364.112ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "РГ",
+        "tuName": [
+            "ГЕ0.364.113ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "РГ-П",
+        "tuName": [
+            "ГЕ0.364.113ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "СШР",
+        "tuName": [
+            "ГЕ0.364.107ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "СШРГ",
+        "tuName": [
+            "ГЕ0.364.108ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "ШР",
+        "tuName": [
+            "ГЕ0.364.107ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "ШРГ",
+        "tuName": [
+            "ГЕ0.364.108ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    },
+    {
+        "ekbName": "ШРГ-П",
+        "tuName": [
+            "ГЕ0.364.108ТУ"
+        ],
+        "manufacturerName": [
+            "ОАО «НУР»"
+        ]
+    }
+]

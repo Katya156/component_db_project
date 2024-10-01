@@ -1,0 +1,789 @@
+[
+    {
+        "ekbName": "2Т907А ОС N-P-N",
+        "tuName": [
+            "И93.365.015ТУ",
+            "аА0.339.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т909А N-P-N",
+        "tuName": [
+            "И93.365.018ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т909А ОСМ N-P-N",
+        "tuName": [
+            "И93.365.018ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т909Б N-P-N",
+        "tuName": [
+            "И93.365.018ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т909Б ОСМ N-P-N",
+        "tuName": [
+            "И93.365.018ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т9101АС N-P-N",
+        "tuName": [
+            "аА0.339.523ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т9102А-2 N-P-N",
+        "tuName": [
+            "аА0.339.525ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9102А-2Н N-P-N",
+        "tuName": [
+            "аА0.339.525ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9102Б-2 N-P-N",
+        "tuName": [
+            "аА0.339.525ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9102Б-2Н N-P-N",
+        "tuName": [
+            "аА0.339.525ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9103А-2 N-P-N",
+        "tuName": [
+            "аА0.339.527ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9103Б-2 N-P-N",
+        "tuName": [
+            "аА0.339.527ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9104А N-P-N",
+        "tuName": [
+            "аА0.339.528ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т9104Б N-P-N",
+        "tuName": [
+            "аА0.339.528ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т9107А-2 N-P-N",
+        "tuName": [
+            "аА0.339.539ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9118А N-P-N",
+        "tuName": [
+            "аА0.339.638ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9118Б N-P-N",
+        "tuName": [
+            "аА0.339.638ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9119А-2Н N-P-N",
+        "tuName": [
+            "аА0.339.639ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т911А ОСМ N-P-N",
+        "tuName": [
+            "И93.365.020ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т911Б N-P-N",
+        "tuName": [
+            "И93.365.020ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т911Б ОСМ N-P-N",
+        "tuName": [
+            "И93.365.020ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т9122А N-P-N",
+        "tuName": [
+            "аА0.339.660ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9122Б N-P-N",
+        "tuName": [
+            "аА0.339.660ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9124Б N-P-N",
+        "tuName": [
+            "аА0.339.667ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9135А-2 N-P-N",
+        "tuName": [
+            "аА0.339.733ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9137А N-P-N",
+        "tuName": [
+            "аА0.339.757ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9137Б N-P-N",
+        "tuName": [
+            "аА0.339.757ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9139Б N-P-N",
+        "tuName": [
+            "аА0.339.769ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9139В N-P-N",
+        "tuName": [
+            "аА0.339.769ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9139Г N-P-N",
+        "tuName": [
+            "аА0.339.769ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т9147АС N-P-N",
+        "tuName": [
+            "аА0.339.802ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т914А N-P-N",
+        "tuName": [
+            "ЩЫ0.336.029ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «КРИП ТЕХНО»"
+        ]
+    },
+    {
+        "ekbName": "2Т9175Б N-P-N",
+        "tuName": [
+            "АЕЯР.432150.125ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т9175В N-P-N",
+        "tuName": [
+            "АЕЯР.432150.125ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т9188А N-P-N",
+        "tuName": [
+            "АЕЯР.432140.154ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т9193А N-P-N",
+        "tuName": [
+            "АЕЯР.432150.171ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т9197А N-P-N",
+        "tuName": [
+            "АЕЯР.432150.211ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т9197Б N-P-N",
+        "tuName": [
+            "АЕЯР.432150.211ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т9197В N-P-N",
+        "tuName": [
+            "АЕЯР.432150.211ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭТ»"
+        ]
+    },
+    {
+        "ekbName": "2Т919А ОС N-P-N",
+        "tuName": [
+            "ЖК3.365.249ТУ",
+            "АЕЯР.430204.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т919Б ОС N-P-N",
+        "tuName": [
+            "ЖК3.365.249ТУ",
+            "АЕЯР.430204.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т919В ОС N-P-N",
+        "tuName": [
+            "ЖК3.365.249ТУ",
+            "АЕЯР.430204.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т925А N-P-N",
+        "tuName": [
+            "И93.365.031ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т925А ОС N-P-N",
+        "tuName": [
+            "И93.365.031ТУ/Д6",
+            "аА0.339.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т925Б N-P-N",
+        "tuName": [
+            "И93.365.031ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т925Б ОС N-P-N",
+        "tuName": [
+            "И93.365.031ТУ/Д6",
+            "аА0.339.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т925В N-P-N",
+        "tuName": [
+            "И93.365.031ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т925В ОС N-P-N",
+        "tuName": [
+            "И93.365.031ТУ/Д6",
+            "аА0.339.190ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т930А ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.036ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т930Б ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.036ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т934А ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.004ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т934Б ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.004ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т934В ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.004ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т937А-2Н N-P-N",
+        "tuName": [
+            "аА0.339.079ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т937А1-2 N-P-N",
+        "tuName": [
+            "аА0.339.079ТУ/Д2"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т937Б-2Н N-P-N",
+        "tuName": [
+            "аА0.339.079ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т937Б1-2 N-P-N",
+        "tuName": [
+            "аА0.339.079ТУ/Д2"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т942А N-P-N",
+        "tuName": [
+            "аА0.339.098ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т942А ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.098ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т942Б N-P-N",
+        "tuName": [
+            "аА0.339.098ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т942Б ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.098ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т946А ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.083ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т948А ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.205ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т948Б ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.205ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т960А N-P-N",
+        "tuName": [
+            "аА0.339.157ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т962А ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.168ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т962Б ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.168ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т962В ОСМ N-P-N",
+        "tuName": [
+            "аА0.339.168ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т976А N-P-N",
+        "tuName": [
+            "аА0.339.303ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т982А-2Н N-P-N",
+        "tuName": [
+            "аА0.339.360ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т982А-5 N-P-N",
+        "tuName": [
+            "аА0.339.360ТУ/Д1"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т985АС N-P-N",
+        "tuName": [
+            "аА0.339.408ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т987А N-P-N",
+        "tuName": [
+            "аА0.339.416ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989А N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989Б N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989В N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989Г N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989Д N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989Е N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989Ж N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т989И N-P-N",
+        "tuName": [
+            "аА0.339.427ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т990А-2 N-P-N",
+        "tuName": [
+            "аА0.339.433ТУ/Д1"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    },
+    {
+        "ekbName": "2Т991АС N-P-N",
+        "tuName": [
+            "аА0.339.437ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "2Т995А-2Н N-P-N",
+        "tuName": [
+            "аА0.339.467ТУ",
+            "РМ 11 091.926"
+        ],
+        "manufacturerName": [
+            "АО «ГЗ «ПУЛЬСАР»"
+        ]
+    }
+]

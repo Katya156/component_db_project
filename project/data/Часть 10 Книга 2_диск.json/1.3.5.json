@@ -1,0 +1,74 @@
+[
+    {
+        "ekbName": "БСС-253",
+        "tuName": [
+            "Щ40.208.002ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "БФС-253",
+        "tuName": [
+            "Щ40.208.002ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "Л31ПВ-1",
+        "tuName": [
+            "Щ40.383.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "Л31ПВ-2",
+        "tuName": [
+            "Щ40.383.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "Л31ПВ-3",
+        "tuName": [
+            "Щ40.383.000ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "ЛЗА-353",
+        "tuName": [
+            "Щ40.383.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "УР2ПВ-1-В",
+        "tuName": [
+            "Щ40.383.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "УР2ПВ-2-В",
+        "tuName": [
+            "Щ40.383.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    }
+]

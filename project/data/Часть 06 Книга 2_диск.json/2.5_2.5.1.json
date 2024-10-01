@@ -1,0 +1,119 @@
+[
+    {
+        "ekbName": "СБМ10",
+        "tuName": [
+            "ОД0.339.085ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБМ14",
+        "tuName": [
+            "ОД0.339.616ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБТ10",
+        "tuName": [
+            "Ве0.339.006ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБТ11",
+        "tuName": [
+            "Ве0.339.006ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ13Н",
+        "tuName": [
+            "ОТ3.394.160ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ14Н",
+        "tuName": [
+            "ОТ3.394.193ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ22Г",
+        "tuName": [
+            "Ве0.339.002ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ23БГ",
+        "tuName": [
+            "ОД0.339.338ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ24БГ",
+        "tuName": [
+            "ОД0.339.338ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ28БГ",
+        "tuName": [
+            "ОД0.339.391ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СНМ18",
+        "tuName": [
+            "ОД0.339.334ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СНМ32",
+        "tuName": [
+            "ОД0.339.086ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СТС6",
+        "tuName": [
+            "Ве0.339.001ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "ekbName": "556АП1",
+        "tuName": [
+            "бК0.347.661ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ1",
+        "tuName": [
+            "бК0.347.239-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ161",
+        "tuName": [
+            "бК0.347.239-16ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ2",
+        "tuName": [
+            "бК0.347.239-02ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ4А",
+        "tuName": [
+            "бК0.347.239-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ5",
+        "tuName": [
+            "бК0.347.239-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ6А",
+        "tuName": [
+            "бК0.347.239-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "556РТ7А",
+        "tuName": [
+            "бК0.347.239-07ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "М556РТ161",
+        "tuName": [
+            "бК0.347.237-16ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "М556РТ2",
+        "tuName": [
+            "бК0.347.237-02ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "М556РТ5",
+        "tuName": [
+            "бК0.347.237-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "М556РТ6А",
+        "tuName": [
+            "бК0.347.237-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "М556РТ7А",
+        "tuName": [
+            "бК0.347.237-07ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    }
+]

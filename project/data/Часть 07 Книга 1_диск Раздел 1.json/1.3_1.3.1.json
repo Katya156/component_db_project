@@ -1,0 +1,101 @@
+[
+    {
+        "ekbName": "10ЛО43И",
+        "tuName": [
+            "СУ3.350.019ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "13ЛО37А",
+        "tuName": [
+            "СУ3.350.050ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "13ЛО37И",
+        "tuName": [
+            "СУ3.350.001ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "13ЛО6И",
+        "tuName": [
+            "СУ3.350.055ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "16ЛО4В",
+        "tuName": [
+            "СУ3.350.157ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "16ЛО4У",
+        "tuName": [
+            "СУ3.350.159ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "5ЛО38И",
+        "tuName": [
+            "СУ3.350.015ТУ"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "6ЛО1И",
+        "tuName": [
+            "СУ3.350.099ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "8ЛО29И",
+        "tuName": [
+            "СУ3.350.024ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "8ЛО30И",
+        "tuName": [
+            "СУ3.350.025ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    },
+    {
+        "ekbName": "8ЛО39В",
+        "tuName": [
+            "СУ3.350.020ТУ1"
+        ],
+        "manufacturerName": [
+            "ООО «МЭЛЗ»"
+        ]
+    }
+]

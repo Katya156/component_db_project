@@ -1,0 +1,74 @@
+[
+    {
+        "ekbName": "СБМ19",
+        "tuName": [
+            "ОД0.339.191ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБМ20",
+        "tuName": [
+            "ОД0.339.172ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБМ21",
+        "tuName": [
+            "ОД0.339.201ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБТ10А",
+        "tuName": [
+            "Ве0.339.006ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СБТ11А",
+        "tuName": [
+            "Ве0.339.006ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ1Г",
+        "tuName": [
+            "Ве0.339.002ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СИ29БГ",
+        "tuName": [
+            "ОТ3.394.198ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    },
+    {
+        "ekbName": "СНМ42",
+        "tuName": [
+            "ОД0.339.086ТУ"
+        ],
+        "manufacturerName": [
+            "СФ АО «НИИТФА»"
+        ]
+    }
+]

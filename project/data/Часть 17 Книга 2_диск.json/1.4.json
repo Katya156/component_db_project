@@ -1,0 +1,156 @@
+[
+    {
+        "ekbName": "АВК-1",
+        "tuName": [
+            "ТУ 16-505.919-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКВ-1",
+        "tuName": [
+            "ТУ 16-505.919-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКВЭ-1",
+        "tuName": [
+            "ТУ 16-505.919-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКД-М",
+        "tuName": [
+            "ТУ 16-705.404-85"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКДЭ-М",
+        "tuName": [
+            "ТУ 16-705.404-85"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКМР-1",
+        "tuName": [
+            "ТУ 16.К76-067-91"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКМР-2",
+        "tuName": [
+            "ТУ 16.К76-067-91"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТД-М",
+        "tuName": [
+            "ТУ 16-705.404-85"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТДЛ М",
+        "tuName": [
+            "ТУ 16-705.284-83",
+            "ОСТ В 16.0.690.011-90"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТДЭ-М",
+        "tuName": [
+            "ТУ 16-705.404-85"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТС-1",
+        "tuName": [
+            "ТУ 16-705.130-80"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТС-2",
+        "tuName": [
+            "ТУ 16-705.130-80"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТС-3",
+        "tuName": [
+            "ТУ 16-705.130-80"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКТС-4",
+        "tuName": [
+            "ТУ 16-705.130-80"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКЭ-1",
+        "tuName": [
+            "ТУ 16-505.919-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКЭР-3",
+        "tuName": [
+            "ТУ 16-505.819-75"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "АВКЭРУ",
+        "tuName": [
+            "ТУ 16-505.819-75"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    }
+]

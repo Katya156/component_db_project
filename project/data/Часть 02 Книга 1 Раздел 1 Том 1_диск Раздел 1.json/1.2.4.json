@@ -1,0 +1,47 @@
+[
+    {
+        "ekbName": "134РМ1",
+        "tuName": [
+            "бК0.347.083ТУ3"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "134РУ6",
+        "tuName": [
+            "бК0.347.083ТУ9"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "134РУ6А",
+        "tuName": [
+            "бК0.347.083ТУ9"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "134РУ6Б",
+        "tuName": [
+            "бК0.347.083ТУ9"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "ОС 134РМ1",
+        "tuName": [
+            "бК0.347.188СТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    }
+]

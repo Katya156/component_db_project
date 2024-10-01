@@ -1,0 +1,281 @@
+[
+    {
+        "ekbName": "1804ВА1",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВА3",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВЖ1",
+        "tuName": [
+            "бК0.347.328-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВН1",
+        "tuName": [
+            "бК0.347.328-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВР2",
+        "tuName": [
+            "бК0.347.328-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВР3",
+        "tuName": [
+            "бК0.347.328-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВС2",
+        "tuName": [
+            "бК0.347.328-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВУ4Б",
+        "tuName": [
+            "бК0.347.328-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВУ5",
+        "tuName": [
+            "бК0.347.328-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ВУ6",
+        "tuName": [
+            "бК0.347.328-07ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ИР2",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "1804ИР3",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВА1",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВА2",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВА3",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВЖ1",
+        "tuName": [
+            "бК0.347.328-06ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВН1",
+        "tuName": [
+            "бК0.347.328-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВР1",
+        "tuName": [
+            "бК0.347.328ТУ1"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВР2",
+        "tuName": [
+            "бК0.347.328-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВР3",
+        "tuName": [
+            "бК0.347.328-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВС1",
+        "tuName": [
+            "бК0.347.328-02ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВС2",
+        "tuName": [
+            "бК0.347.328-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВУ1",
+        "tuName": [
+            "бК0.347.328-02ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВУ2",
+        "tuName": [
+            "бК0.347.328-02ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВУ3",
+        "tuName": [
+            "бК0.347.328ТУ1"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВУ4",
+        "tuName": [
+            "бК0.347.328-03ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ВУ5",
+        "tuName": [
+            "бК0.347.328-05ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ГГ1",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ИР1",
+        "tuName": [
+            "бК0.347.328ТУ1"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ИР2",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    },
+    {
+        "ekbName": "М1804ИР3",
+        "tuName": [
+            "бК0.347.328-04ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ВЗППС»"
+        ]
+    }
+]

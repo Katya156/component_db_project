@@ -1,0 +1,84 @@
+[
+    {
+        "ekbName": "2Ц111А-1",
+        "tuName": [
+            "аА0.339.008ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц112А",
+        "tuName": [
+            "аА0.339.153ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц112А ОСМ",
+        "tuName": [
+            "аА0.339.153ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц113А-1",
+        "tuName": [
+            "аА0.339.072ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц114А",
+        "tuName": [
+            "аА0.339.188ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц114Б",
+        "tuName": [
+            "аА0.339.188ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц116Б",
+        "tuName": [
+            "аА0.339.443ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц132А",
+        "tuName": [
+            "АЕЯР.432120.222ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "2Ц132Б",
+        "tuName": [
+            "АЕЯР.432120.222ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

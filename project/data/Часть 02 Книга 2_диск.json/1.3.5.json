@@ -1,0 +1,65 @@
+[
+    {
+        "ekbName": "589АП16",
+        "tuName": [
+            "бК0.347.214ТУ6"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "589АП26",
+        "tuName": [
+            "бК0.347.214ТУ6"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "589ИК01",
+        "tuName": [
+            "бК0.347.214ТУ1"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "589ИК02",
+        "tuName": [
+            "бК0.347.214ТУ2"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "589ИК03",
+        "tuName": [
+            "бК0.347.214ТУ3"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "589ИК14",
+        "tuName": [
+            "бК0.347.214ТУ5"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    },
+    {
+        "ekbName": "589ИР12",
+        "tuName": [
+            "бК0.347.214ТУ4"
+        ],
+        "manufacturerName": [
+            "АО «МИКРОН»"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "ekbName": "432ЕП3",
+        "tuName": [
+            "бК0.347.487-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "432ЕП4",
+        "tuName": [
+            "бК0.347.487-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "432ЕП5",
+        "tuName": [
+            "бК0.347.487-01ТУ"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 432ЕП3",
+        "tuName": [
+            "бК0.347.487-01ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 432ЕП4",
+        "tuName": [
+            "бК0.347.487-01ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 432ЕП5",
+        "tuName": [
+            "бК0.347.487-01ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «FOTON»"
+        ]
+    }
+]

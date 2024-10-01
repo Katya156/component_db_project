@@ -1,0 +1,38 @@
+[
+    {
+        "ekbName": "520КТ1А",
+        "tuName": [
+            "ТТ0.343.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОПТРОН»"
+        ]
+    },
+    {
+        "ekbName": "520КТ1Б",
+        "tuName": [
+            "ТТ0.343.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОПТРОН»"
+        ]
+    },
+    {
+        "ekbName": "520КТ1В",
+        "tuName": [
+            "ТТ0.343.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОПТРОН»"
+        ]
+    },
+    {
+        "ekbName": "520КТ1Г",
+        "tuName": [
+            "ТТ0.343.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОПТРОН»"
+        ]
+    }
+]

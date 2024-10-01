@@ -1,0 +1,103 @@
+[
+    {
+        "ekbName": "301НР8",
+        "tuName": [
+            "ОЖ0.345.004ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР9",
+        "tuName": [
+            "ОЖ0.345.004ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "302НР2",
+        "tuName": [
+            "ОЖ0.345.003ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "302НР3",
+        "tuName": [
+            "ОЖ0.345.003ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "308НР4",
+        "tuName": [
+            "бК0.347.358ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "308НР5",
+        "tuName": [
+            "бК0.347.358ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "308НР6",
+        "tuName": [
+            "бК0.347.358ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-22",
+        "tuName": [
+            "ОЖ0.467.420ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-28",
+        "tuName": [
+            "ОЖ0.467.423ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 313НР310",
+        "tuName": [
+            "бК0.347.265ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 313НР320",
+        "tuName": [
+            "бК0.347.265ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    }
+]

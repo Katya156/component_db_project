@@ -1,0 +1,338 @@
+[
+    {
+        "ekbName": "IIIВ",
+        "tuName": [
+            "ТЦ0.338.143ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "IIIВ",
+        "tuName": [
+            "ТЦ0.338.142ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "IIВ",
+        "tuName": [
+            "ТЦ0.338.145ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "IVВ",
+        "tuName": [
+            "ТЦ0.338.140ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ РК88",
+        "tuName": [
+            "УЗ0.338.010ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК125",
+        "tuName": [
+            "ТЦ0.338.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК126",
+        "tuName": [
+            "ТЦ0.338.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК162",
+        "tuName": [
+            "ТЦ3.381.111-1ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК22",
+        "tuName": [
+            "аЦ0.338.112ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК259М",
+        "tuName": [
+            "аЦ0.338.084ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК271ЧА",
+        "tuName": [
+            "аЦ0.338.089ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК32",
+        "tuName": [
+            "РЦ3.382.369ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК370",
+        "tuName": [
+            "аЦ0.338.044ТУД2"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК371",
+        "tuName": [
+            "аЦ0.338.044ТУ-Д2",
+            "аЦ0.338.044ТУ-Д3"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК384",
+        "tuName": [
+            "АДКШ.433510.020ТУ",
+            "ТУ 6321-004-07614320-96"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК386М-Т1",
+        "tuName": [
+            "ТУ 6321-004-07614320-96-Д2"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК386ММ-100М-3",
+        "tuName": [
+            "ТУ 6321-004-07614320-96-Д16"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК386ММ-Д16",
+        "tuName": [
+            ""
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК386ММ-Д6",
+        "tuName": [
+            "ТУ 6321-004-07614320-96-Д6"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК386ММ-Т",
+        "tuName": [
+            "ТУ 6321-004-07614320-96-Д8"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК386ММ-Т",
+        "tuName": [
+            "ТУ 6321-004-07614320-96-Д7"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК403",
+        "tuName": [
+            "АФТП.433510.010ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК407",
+        "tuName": [
+            "УЗ3.381.533ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК410",
+        "tuName": [
+            "У33.381.533ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК412",
+        "tuName": [
+            "АСТП.433510.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК417",
+        "tuName": [
+            "АФТП.433510.014ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    },
+    {
+        "ekbName": "РК435",
+        "tuName": [
+            "АФТП.433513.015ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЬЕЗО»"
+        ]
+    },
+    {
+        "ekbName": "РК501",
+        "tuName": [
+            "ТУ 6321-044-07614320-09"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК512",
+        "tuName": [
+            "ЖКГД.433514.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИ «ЭЛПА»"
+        ]
+    },
+    {
+        "ekbName": "РК537",
+        "tuName": [
+            "ПСНК.433513.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЗАВОДЪ «МЕТЕОРИТН»"
+        ]
+    },
+    {
+        "ekbName": "РК538",
+        "tuName": [
+            "ПСНК.433513.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЗАВОДЪ «МЕТЕОРИТН»"
+        ]
+    },
+    {
+        "ekbName": "РК539",
+        "tuName": [
+            "ПСНК.433513.002ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЗАВОДЪ «МЕТЕОРИТН»"
+        ]
+    },
+    {
+        "ekbName": "РК66",
+        "tuName": [
+            "аЦ0.338.100ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК67",
+        "tuName": [
+            "аЦ0.338.100ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК69",
+        "tuName": [
+            "аЦ0.338.100ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РКМ12",
+        "tuName": [
+            "ФКПГ.433510.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЭТНА»"
+        ]
+    },
+    {
+        "ekbName": "РТа1",
+        "tuName": [
+            "аЦ0.338.059ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ЛИТФОНОН»"
+        ]
+    }
+]

@@ -1,0 +1,508 @@
+[
+    {
+        "ekbName": "301НР1",
+        "tuName": [
+            "ОЖ0.345.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР11",
+        "tuName": [
+            "ОЖ0.345.004ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР12",
+        "tuName": [
+            "ОЖ0.345.004ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР3",
+        "tuName": [
+            "ОЖ0.345.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР4",
+        "tuName": [
+            "ОЖ0.345.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР5",
+        "tuName": [
+            "ОЖ0.345.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "301НР6",
+        "tuName": [
+            "ОЖ0.345.001ТУ"
+        ],
+        "manufacturerName": [
+            "АО «АЛМАЗ»"
+        ]
+    },
+    {
+        "ekbName": "313НР210",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР210Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР210Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР211",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР211Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР211Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР220",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР220Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР220Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР221",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР221Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР221Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР230",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР230Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР230Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР231",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР231Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР231Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР240",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР240Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР240Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР241",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР241Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР241Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР410",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР410Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР410Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР411",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР411Т",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "313НР411Т1",
+        "tuName": [
+            "бК0.347.265ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "317НФ1А",
+        "tuName": [
+            "бК0.347.332ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ЗАВОД «РЕКОНД»"
+        ]
+    },
+    {
+        "ekbName": "317НФ1Б",
+        "tuName": [
+            "бК0.347.332ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ЗАВОД «РЕКОНД»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-1",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-2",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-3",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-4",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-5",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-6",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-7",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-53-2-8",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-54-2-1",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-54-2-2",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-54-2-3",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-55-2-1",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-55-2-2",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-60-2-1",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "НР1-60-2-2",
+        "tuName": [
+            "АЛСР.434310.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НИИЭМП»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 317НФ1А",
+        "tuName": [
+            "бК0.347.332ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "ПАО «ЗАВОД «РЕКОНД»"
+        ]
+    },
+    {
+        "ekbName": "ОСМ 317НФ1Б",
+        "tuName": [
+            "бК0.347.332ТУ",
+            "П0.070.052"
+        ],
+        "manufacturerName": [
+            "ПАО «ЗАВОД «РЕКОНД»"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "ekbName": "РК292",
+        "tuName": [
+            "аЦ0.338.092ТУД3"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК178",
+        "tuName": [
+            "аЦ0.338.102ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК191",
+        "tuName": [
+            "аЦ0.338.034ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК292ДГ",
+        "tuName": [
+            "аЦ0.338.092ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    },
+    {
+        "ekbName": "РК341",
+        "tuName": [
+            "УЗ0.338.013ТУ"
+        ],
+        "manufacturerName": [
+            "АО «МОРИОН»"
+        ]
+    }
+]

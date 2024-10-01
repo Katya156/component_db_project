@@ -1,0 +1,1101 @@
+[
+    {
+        "ekbName": "МИ-119М",
+        "tuName": [
+            "АПНТ.433160.049ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-145-1",
+        "tuName": [
+            "СИ3.323.207ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-146-1",
+        "tuName": [
+            "СИ0.332.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-146-2",
+        "tuName": [
+            "СИ0.332.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-146А-1",
+        "tuName": [
+            "СИ0.332.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-146Д-2",
+        "tuName": [
+            "СИ0.332.011ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-184",
+        "tuName": [
+            "СИ3.323.122ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-184А",
+        "tuName": [
+            "СИ3.323.329ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-207А",
+        "tuName": [
+            "СИ3.323.253ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ГРАНИТ»"
+        ]
+    },
+    {
+        "ekbName": "МИ-215",
+        "tuName": [
+            "СИ3.323.227ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-218В",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-218Г",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-218Д",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-218Е",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-218Ж",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-218И",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219А",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219Б",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219В",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219Г",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219Д",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219Е",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219Ж",
+        "tuName": [
+            "бВ0.332.400ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219Ж-1",
+        "tuName": [
+            "бВ0.332.400ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-219И",
+        "tuName": [
+            "СИ0.332.012ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-241",
+        "tuName": [
+            "СИ3.323.346ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-246А",
+        "tuName": [
+            "бВ0.332.557ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251А",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251А-2",
+        "tuName": [
+            "СИ0.332.060ТУ",
+            "бВ0.332.379ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Б",
+        "tuName": [
+            "бВ0.332.379ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Б-2",
+        "tuName": [
+            ""
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251В",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251В-2",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Г",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Г-2",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Д",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Д-2",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Е",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-251Е-2",
+        "tuName": [
+            "СИ0.332.060ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-267",
+        "tuName": [
+            "СИ3.323.327ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-267А",
+        "tuName": [
+            "СИ3.323.327ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-267Б",
+        "tuName": [
+            "СИ3.323.327ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-268",
+        "tuName": [
+            "СИ3.323.347ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-279А-1",
+        "tuName": [
+            "СИ3.323.447ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-279Б-1",
+        "tuName": [
+            "СИ3.323.447ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-284",
+        "tuName": [
+            "СИ3.323.187ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-284А",
+        "tuName": [
+            "СИ3.323.187ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-285А",
+        "tuName": [
+            "ТИ3.323.026ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ГРАНИТ»"
+        ]
+    },
+    {
+        "ekbName": "МИ-285Г",
+        "tuName": [
+            "ТИ3.323.026ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ГРАНИТ»"
+        ]
+    },
+    {
+        "ekbName": "МИ-285Д",
+        "tuName": [
+            "ТИ3.323.026ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ГРАНИТ»"
+        ]
+    },
+    {
+        "ekbName": "МИ-285З",
+        "tuName": [
+            "ТИ3.323.026ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ГРАНИТ»"
+        ]
+    },
+    {
+        "ekbName": "МИ-299",
+        "tuName": [
+            "СИ3.323.386ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-299А",
+        "tuName": [
+            "СИ3.323.386ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-316",
+        "tuName": [
+            "СИ3.323.391ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-347А",
+        "tuName": [
+            "СИ3.323.438ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-347Б",
+        "tuName": [
+            "СИ3.323.438ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-347В",
+        "tuName": [
+            "СИ3.323.438ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-356А",
+        "tuName": [
+            "бВ0.332.198ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-356Б",
+        "tuName": [
+            "бВ0.332.198ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-356В",
+        "tuName": [
+            "бВ0.332.198ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-356Г",
+        "tuName": [
+            "бВ0.332.198ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-356Д",
+        "tuName": [
+            "АБУК.433160.005ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-356Е",
+        "tuName": [
+            "бВ0.332.198ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-367А",
+        "tuName": [
+            "бВ0.332.306ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-367Б",
+        "tuName": [
+            "бВ0.332.246ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370А",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370А-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Б",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Б-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370В",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370В-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Г",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Г-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Д",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Д-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Е",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Е-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Ж",
+        "tuName": [
+            "бВ0.332.279ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-370Ж-1",
+        "tuName": [
+            "бВ0.332.524ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-374А",
+        "tuName": [
+            "бВ0.332.334ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-374Б",
+        "tuName": [
+            "бВ0.332.334ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-374В",
+        "tuName": [
+            "бВ0.332.334ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-374Г",
+        "tuName": [
+            "бВ0.332.334ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-374Д",
+        "tuName": [
+            "бВ0.332.334ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-378",
+        "tuName": [
+            "бВ0.332.353ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-379",
+        "tuName": [
+            "бВ0.332.366ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-381-1",
+        "tuName": [
+            "бВ0.332.371ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-381А-1",
+        "tuName": [
+            "бВ0.332.371ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-388А",
+        "tuName": [
+            "бВ0.332.407ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-388Б",
+        "tuName": [
+            "бВ0.332.407ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-410",
+        "tuName": [
+            "бВ0.332.515ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-412",
+        "tuName": [
+            "бВ0.332.637ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-428А",
+        "tuName": [
+            "бВ0.332.575ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-428Б",
+        "tuName": [
+            "бВ0.332.575ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-444Г",
+        "tuName": [
+            "АПНТ.433160.042ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-444Г-1",
+        "tuName": [
+            "АПНТ.433160.042ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-458",
+        "tuName": [
+            "АПНТ.433160.032ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-467",
+        "tuName": [
+            "АПНТ.433160.052ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-484А",
+        "tuName": [
+            "АПНТ.433150.348ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-484Б",
+        "tuName": [
+            "АПНТ.433150.348ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-490",
+        "tuName": [
+            "АПНТ.433160.064ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503Б1",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503В",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503Г",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503Д",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503Е",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503Ж",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-503К",
+        "tuName": [
+            "АПНТ.433160.053ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «ФАЗА»"
+        ]
+    },
+    {
+        "ekbName": "МИ-704",
+        "tuName": [
+            "АПНТ.433160.082ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-708А",
+        "tuName": [
+            "АПНТ.433160.085ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-708Б",
+        "tuName": [
+            "АПНТ.433160.085ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-710",
+        "tuName": [
+            "АПНТ.433160.088ТУ"
+        ],
+        "manufacturerName": [
+            "АО «НПП «САЛЮТ»"
+        ]
+    },
+    {
+        "ekbName": "МИ-716А",
+        "tuName": [
+            "АПНТ.433160.093ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-716Б",
+        "tuName": [
+            "АПНТ.433160.093ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-717",
+        "tuName": [
+            "АПНТ.433160.095ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-718",
+        "tuName": [
+            "АПНТ.433160.096ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-720",
+        "tuName": [
+            "АПНТ.433160.099ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-722А",
+        "tuName": [
+            "АПНТ.433160.101ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-722Б",
+        "tuName": [
+            "АПНТ.433160.101ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИ-728",
+        "tuName": [
+            "АПНТ.433160.104ТУ"
+        ],
+        "manufacturerName": [
+            "ЗАО «НПП «МАГРАТЕП»"
+        ]
+    },
+    {
+        "ekbName": "МИ-82М",
+        "tuName": [
+            "СИ3.323.187ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ПЛУТОН»"
+        ]
+    },
+    {
+        "ekbName": "МИС-1",
+        "tuName": [
+            "ТИ3.323.024ТУ"
+        ],
+        "manufacturerName": [
+            "ПАО «ГРАНИТ»"
+        ]
+    }
+]

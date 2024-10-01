@@ -1,0 +1,155 @@
+[
+    {
+        "ekbName": "ИНП-3/35",
+        "tuName": [
+            "ОД0.337.134ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП-3/45А",
+        "tuName": [
+            "ОД0.337.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП-3/60А",
+        "tuName": [
+            "ОД0.337.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП-5/45А-1",
+        "tuName": [
+            "ОД0.337.076ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-3/25",
+        "tuName": [
+            "ОД0.337.134ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-3/35",
+        "tuName": [
+            "ОД0.337.203ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-3/45А",
+        "tuName": [
+            "ОД0.337.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-3/60А",
+        "tuName": [
+            "ОД0.337.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-3/75А",
+        "tuName": [
+            "ОД0.337.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-5/45А",
+        "tuName": [
+            "ОД0.337.151ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП2-5/90А",
+        "tuName": [
+            "ОД0.337.151ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП3-3/45",
+        "tuName": [
+            "ОД0.337.203ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП3-3/60",
+        "tuName": [
+            "ОД0.337.203ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП3-3/75А",
+        "tuName": [
+            "ОД0.337.108ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП4-5/60А",
+        "tuName": [
+            "ОД0.337.151ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИНП4-5/75А",
+        "tuName": [
+            "ОД0.337.151ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    },
+    {
+        "ekbName": "ИСП-600",
+        "tuName": [
+            "ЮЩ3.374.118ТУ"
+        ],
+        "manufacturerName": [
+            "АО «СтеллаК»"
+        ]
+    }
+]

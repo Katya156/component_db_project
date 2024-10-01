@@ -1,0 +1,166 @@
+[
+    {
+        "ekbName": "ЛВ",
+        "tuName": [
+            "ТУ 16-505.956-76"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛВП-150",
+        "tuName": [
+            "ТУ 16.К76-219-2007"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛВС-1.27",
+        "tuName": [
+            "ДКЮГ.358400.021ТУ"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛЛПС-100",
+        "tuName": [
+            "ТУ 16-705.360-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛЛПС-50",
+        "tuName": [
+            "ТУ 16-705.360-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛПМФКм",
+        "tuName": [
+            "ТУ 16-505.914-86"
+        ],
+        "manufacturerName": [
+            "ООО «УФИМКАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ЛПМФм",
+        "tuName": [
+            "ТУ 16-505.914-86"
+        ],
+        "manufacturerName": [
+            "ООО «УФИМКАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ЛПМФУм",
+        "tuName": [
+            "ТУ 16-505.914-86"
+        ],
+        "manufacturerName": [
+            "ООО «УФИМКАБЕЛЬ»"
+        ]
+    },
+    {
+        "ekbName": "ЛППМ-100",
+        "tuName": [
+            "ТУ 16-705.360-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛППМ-50",
+        "tuName": [
+            "ТУ 16-705.360-84"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛПФО",
+        "tuName": [
+            "ТУ 16.К76-001-87"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛПФЭ",
+        "tuName": [
+            "ТУ 16.К76-001-87"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛФ",
+        "tuName": [
+            "ТУ 16-505.682-74"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛФ-М",
+        "tuName": [
+            "ТУ 16-505.682-74",
+            "ОСТ В 16 0.690-011-90"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛФЭ",
+        "tuName": [
+            "ТУ 16-505.682-74"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛФЭ-1",
+        "tuName": [
+            "ТУ 16-505.682-74"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛФЭ-М",
+        "tuName": [
+            "ТУ 16-505.682-74",
+            "ОСТ В 16 0.690-011-90"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    },
+    {
+        "ekbName": "ЛФЭО-1",
+        "tuName": [
+            "ТУ 16-505.682-74"
+        ],
+        "manufacturerName": [
+            "АО «ОКБ КП»"
+        ]
+    }
+]
