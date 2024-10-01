@@ -37,4 +37,4 @@ Such files should be for for each category, both with names and technical specif
 
 The result is stored in the /data_params folder.
 
-<ins><em>Libraries and modules used:</em></ins> os, re, sys, json
+<ins><em>Libraries and modules used:</em></ins> os, re, json
